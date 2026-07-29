@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Creator Extras"
+  short_description: "Encoding-safe skill validation"
+  default_prompt: "Use $skill-creator-extras with $skill-creator to normalize and validate a skill safely."

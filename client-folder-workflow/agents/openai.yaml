@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Folder Workflow"
+  short_description: "Ingest and file insurance client email workflows"
+  default_prompt: "Use $client-folder-workflow to ingest and file one insurance client folder with a written plan, audit trail, and verified outputs."

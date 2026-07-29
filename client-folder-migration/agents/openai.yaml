@@ -1,0 +1,8 @@
+interface:
+  display_name: "Client Folder Migration"
+  short_description: "Build a policy register and migrate legacy insurance files, including folder-context cleanup"
+  default_prompt: "Use $client-folder-migration to build or preserve the policy register, create the client-folder-workflow permanent folder schema, and safely migrate legacy files with a written plan, audit log, and optional user-authorized folder-context cleanup."
+
+policy:
+  allow_implicit_invocation: true
+

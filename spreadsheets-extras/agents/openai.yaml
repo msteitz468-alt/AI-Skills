@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spreadsheet Editing Extras"
+  short_description: "Protect existing workbook structure during edits."
+  default_prompt: "Use $spreadsheets-extras when updating an existing workbook."

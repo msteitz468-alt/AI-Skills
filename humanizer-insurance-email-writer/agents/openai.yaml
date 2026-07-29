@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer Insurance Email Writer"
+  short_description: "Draft natural insurance emails without AI tone"
+  default_prompt: "Use $humanizer-insurance-email-writer to draft a concise client renewal email from these details."

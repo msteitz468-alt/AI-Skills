@@ -1,0 +1,7 @@
+interface:
+  display_name: "Folder File Maintenance"
+  short_description: "Organize insurance files consistently"
+  default_prompt: "Use $folder-file-maintenance to organize this workspace using the commercial lines naming standard and the same permanent folder schema as client-folder-workflow."
+
+policy:
+  allow_implicit_invocation: true

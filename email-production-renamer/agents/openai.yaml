@@ -1,0 +1,3 @@
+interface:
+  display_name: "Email Production Renamer"
+  short_description: "Rename email production files into client/policy folders."

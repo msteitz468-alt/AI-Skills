@@ -1,0 +1,4 @@
+interface:
+  display_name: "Client Management"
+  short_description: "Maintain durable client working records and folders."
+  default_prompt: "Use $client-management to organize this client work safely."

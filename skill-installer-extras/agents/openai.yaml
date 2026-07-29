@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Installer Extras"
+  short_description: "Verify third-party skill installations safely."
+  default_prompt: "Use $skill-installer-extras to validate this installed skill."

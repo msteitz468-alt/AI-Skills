@@ -1,0 +1,4 @@
+interface:
+  display_name: "Insurance Policy Extractor"
+  short_description: "Extract policies and endorsements into year-based JSON"
+  default_prompt: "Use $insurance-policy-extractor to extract source-grounded policy data into validated calendar-year JSON outputs."

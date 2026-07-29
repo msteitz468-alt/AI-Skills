@@ -1,0 +1,14 @@
+interface:
+  display_name: Renewal Policy Checker
+  short_description: Compare bound renewal policies to submissions, quotes, and expiring terms.
+  icon: shield-check
+  brand_color: '#1F4E78'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
